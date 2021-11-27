@@ -1,0 +1,35 @@
+{
+  "name": "Rebellien #18",
+  "description": "Explore the Planet MetaMulo with 9999 Rebelliens that will rock the NFT galaxy.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPhbWJ7joY3ohQhusAaLnFNu4M3sjLky5tfUxzWrfBYMn/18.png",
+  "dna": "4da4748ac3ea20ef337970f29ec3aca12adb0610",
+  "edition": 18,
+  "date": 1637004739698,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Pipe Nose"
+    },
+    {
+      "trait_type": "hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "acc",
+      "value": "Chain Gold"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
