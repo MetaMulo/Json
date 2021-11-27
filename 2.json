@@ -1,0 +1,35 @@
+{
+  "name": "Rebellien #2",
+  "description": "Explore the Planet MetaMulo with 9999 Rebelliens that will rock the NFT galaxy.",
+  "image": "https://ipfs.io/ipfs/QmPhbWJ7joY3ohQhusAaLnFNu4M3sjLky5tfUxzWrfBYMn/2.png",
+  "dna": "839ddf2c336b590ba102210a51a965df5cea716a",
+  "edition": 2,
+  "date": 1637004736295,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "skin",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "eye",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "hair",
+      "value": "List Bottom"
+    },
+    {
+      "trait_type": "acc",
+      "value": "Chain Gold"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
